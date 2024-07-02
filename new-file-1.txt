@@ -10,6 +10,6 @@ echo  "github branches"
 echo  "github branches"
 
 
-modified repost1
-modified repost2
+modified repost1 in Branch A
+modified repost2 in Branch A
 
