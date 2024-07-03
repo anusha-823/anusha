@@ -13,3 +13,4 @@ echo  "github branches"
 modified repost1 in Branch A
 modified repost2 in Branch A
 
+Modifed repost in branch B
